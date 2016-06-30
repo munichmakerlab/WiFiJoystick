@@ -20,7 +20,7 @@ This project shows a short description of how to create a WiFi enabled Gamepad /
         </li>
         <li><a href="#status-leds">status LEDs</a>
           <ul>
-            <li><a href="#mqtt-topics-receive-2">mqtt topics (receive)</a></li>
+            <li><a href="#mqtt-topics-receive-1">mqtt topics (receive)</a></li>
           </ul>
         </li>
         <li><a href="#ic-io-expander">I²C IO expander</a></li>
