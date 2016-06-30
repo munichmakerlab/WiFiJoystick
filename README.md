@@ -14,16 +14,16 @@ This project shows a short description of how to create a WiFi enabled Gamepad /
         <li><a href="#joystick--buttons">Joystick & Buttons</a>
           <ul>
             <li><a href="#pin-mapping">pin mapping</a></li>
-            <li><a href="#mqtt-topics--receive">mqtt topics (receive)</a></li>
-            <li><a href="#mqtt-messages--sending">mqtt messages (sending)</a></li>
+            <li><a href="#mqtt-topics-receive">mqtt topics (receive)</a></li>
+            <li><a href="#mqtt-messages-sending">mqtt messages (sending)</a></li>
           </ul>
         </li>
-        <li><a href="#i2c-oled--dht22-link">status LEDs</a>
+        <li><a href="#status-leds">status LEDs</a>
           <ul>
-            <li><a href="#hardware-1">mqtt topics (receive)</a></li>
+            <li><a href="#mqtt-topics-receive-2">mqtt topics (receive)</a></li>
           </ul>
         </li>
-        <li><a href="#i2c-oled--dht22-link">I²C IO expander</a></li>
+        <li><a href="#ic-io-expander">I²C IO expander</a></li>
       </ul>
     </td>
     <td>
